@@ -1,0 +1,42 @@
+[
+  {"filename":"HR_Remote_Work_Policy.pdf","category":"hr","title":"Remote Work Policy"},
+  {"filename":"HR_Leave_and_Absence_Policy.pdf","category":"hr","title":"Leave and Absence Policy"},
+  {"filename":"HR_Benefits_Overview_2026.pdf","category":"hr","title":"Benefits Overview 2026"},
+  {"filename":"HR_Performance_Review_Guidelines.pdf","category":"hr","title":"Performance Review Guidelines"},
+  {"filename":"HR_Code_of_Conduct.pdf","category":"hr","title":"Code of Conduct"},
+  {"filename":"HR_Anti_Harassment_Policy.pdf","category":"hr","title":"Anti-Harassment Policy"},
+  {"filename":"HR_Employee_Handbook.pdf","category":"hr","title":"Employee Handbook"},
+  {"filename":"HR_Contractor_Policy.pdf","category":"hr","title":"Contractor Policy"},
+
+  {"filename":"Finance_Expenses_Policy.pdf","category":"finance_ops","title":"Expenses Policy"},
+  {"filename":"Finance_Travel_Policy.pdf","category":"finance_ops","title":"Travel Policy"},
+  {"filename":"Finance_Procurement_Policy.pdf","category":"finance_ops","title":"Procurement Policy"},
+  {"filename":"Finance_Vendor_Onboarding.pdf","category":"finance_ops","title":"Vendor Onboarding"},
+  {"filename":"Finance_Budgeting_Playbook.pdf","category":"finance_ops","title":"Budgeting Playbook"},
+  {"filename":"Finance_Invoice_Processing_SOP.pdf","category":"finance_ops","title":"Invoice Processing SOP"},
+  {"filename":"Finance_Approval_Matrix.pdf","category":"finance_ops","title":"Approval Matrix"},
+
+  {"filename":"Security_Password_and_MFA_Policy.pdf","category":"security_it","title":"Password and MFA Policy"},
+  {"filename":"Security_Access_Control_Policy.pdf","category":"security_it","title":"Access Control Policy"},
+  {"filename":"Security_Incident_Response_Playbook.pdf","category":"security_it","title":"Incident Response Playbook"},
+  {"filename":"Security_Data_Classification_Standard.pdf","category":"security_it","title":"Data Classification Standard"},
+  {"filename":"IT_Device_Management_Policy.pdf","category":"security_it","title":"Device Management Policy"},
+  {"filename":"IT_Onboarding_Offboarding_Runbook.pdf","category":"security_it","title":"Onboarding/Offboarding Runbook"},
+  {"filename":"IT_Approved_SaaS_List.pdf","category":"security_it","title":"Approved SaaS List"},
+
+  {"filename":"Legal_Data_Retention_Policy.pdf","category":"legal_compliance","title":"Data Retention Policy"},
+  {"filename":"Legal_Privacy_Notice_Internal.pdf","category":"legal_compliance","title":"Internal Privacy Notice"},
+  {"filename":"Legal_GDPR_Employee_Data_Guide.pdf","category":"legal_compliance","title":"GDPR Employee Data Guide"},
+  {"filename":"Legal_Contracting_Playbook.pdf","category":"legal_compliance","title":"Contracting Playbook"},
+  {"filename":"Compliance_Anti_Bribery_Policy.pdf","category":"legal_compliance","title":"Anti-Bribery Policy"},
+  {"filename":"Compliance_Audit_Readiness_Checklist.pdf","category":"legal_compliance","title":"Audit Readiness Checklist"},
+
+  {"filename":"Eng_Architecture_Overview.pdf","category":"product_eng_support","title":"Architecture Overview"},
+  {"filename":"Eng_Logging_and_Monitoring_Standard.pdf","category":"product_eng_support","title":"Logging & Monitoring Standard"},
+  {"filename":"Eng_Deployment_Runbook.pdf","category":"product_eng_support","title":"Deployment Runbook"},
+  {"filename":"Eng_Oncall_Handbook.pdf","category":"product_eng_support","title":"On-call Handbook"},
+  {"filename":"Support_Triage_Playbook.pdf","category":"product_eng_support","title":"Support Triage Playbook"},
+  {"filename":"Support_SLAs_and_Escalation.pdf","category":"product_eng_support","title":"Support SLAs & Escalation"},
+  {"filename":"Product_Roadmap_Q1_2026.pdf","category":"product_eng_support","title":"Product Roadmap Q1 2026"},
+  {"filename":"Postmortem_Template_and_Guidelines.pdf","category":"product_eng_support","title":"Postmortem Template & Guidelines"}
+]
